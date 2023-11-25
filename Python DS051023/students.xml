@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8"?>
+<students>
+
+<student>
+      <Name>Sita</Name>
+      <class>10</class>
+      <percent>80</percent>
+</student>
+
+<student>
+      <Name>Ram</Name>
+      <class>10</class>
+      <percent>90</percent>
+</student>
+
+<student>
+      <Name>Geeta</Name>
+      <class>11</class>
+      <percent>60</percent>
+</student>
+
+<student>
+      <Name>Shivani</Name>
+      <class>10</class>
+      <percent>76</percent>
+</student>
+
+<student>
+      <Name>Raj</Name>
+      <class>12</class>
+      <percent>70</percent>
+
+</student>
+
+</students>

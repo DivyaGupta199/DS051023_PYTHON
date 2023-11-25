@@ -1,0 +1,3 @@
+Name = Nitya, Email_id = Nitya@gmail.com, Phone = 123456789, Password = Nitya@123456
+Name = Divya, Email_id = Divya@gmail.com, Phone = 987566978, Password = Divya#1234
+Name = abc, Email_id = abc@gmail.com, Phone = 7874302970, Password = abc@12345

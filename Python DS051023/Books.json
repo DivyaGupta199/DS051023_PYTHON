@@ -1,0 +1,8 @@
+[
+    {"Book_title": "The monk who sold his Ferrari", "Author": "Robin Sharma", "Price": 200, "Quantity": 8},
+    {"Book_title": "You Can", "Author": "George Matthew Adams ", "Price": 95, "Quantity": 10}, 
+    {"Book_title": "The 5 Am Club", "Author": "Robin Sharma", "Price": 257, "Quantity": 7}, 
+    {"Book_title": "Don't Believe Everything You Think (English)", "Author": "Joseph Nguyen ", "Price": 190, "Quantity": 11}, 
+    {"Book_title": "The Power of A Positive Attitude: Your Road To Success", "Author": "Roger Fritz and Ph.D. Edited by Arthur R. Pell", "Price": 99, "Quantity": 14}, 
+    {"Book_title": "Believe in Yourself", "Author": "Dr Joseph Murphy", "Price": 107, "Quantity": 16}
+]
